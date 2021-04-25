@@ -1,0 +1,17 @@
+PROGRAMME:B.E.-Computer Engineering,,,,,,,,,,,,,,
+Course Code,Course Name,"HighestMarks","CourseCredit/s","CA/TWMaxMarks","CA/TWMarksObtained","ESE/PR/ORLMaxMarks","ESE/PR/ORLMarksObtained","FinalMaxMarks","MarksObtained","FinalGrade","CreditsEarned(C)","GradePoints(G)",(C*G),SGPA
+DCSC301,Applied Mathematics-III,100,5,25,21,75,66,100,87,O,5,10,50,9.08
+DCSC302,Digital Logic Design and Analysis,97,4,25,18,75,51,100,69,C,4,7,28,
+DCSL302,Digital Logic Design and Analysis Laboratory,47,1,25,22,25,23,50,45,O,1,10,10,
+DCSC303,Discrete Mathematics,100,4,25,22,75,72,100,94,O,4,10,40,
+DCSC304,"Electronic Circuits and CommunicationFundamentals",99,4,25,21,75,45,100,66,C,4,7,28,
+DCSL304,"Electronics Circuits and CommunicationFundamentals Laboratory",49,1,25,24,25,23,50,47,O,1,10,10,
+DCSC305,Data Structures,98,4,25,21,75,69,100,90,O,4,10,40,
+DCSL305,Data Structures Laboratory,47,1,25,23,25,24,50,47,O,1,10,10,
+DCSL306,"Object Oriented Programming MethodologyLaboratory",96,2,50,48,50,46,100,94,O,2,10,20,
+Total,,26,,,,,,,,26,,236,,
+Remark : SuccessfulCredits Earned :26SGPA :9.08,,,,,,,,,,,,,,
+"",,,,,,,,,,,,,,
+Marks Obtained,80.00 and above,75-79.99,70-74.99,60-69.99,50- 59.99,45-49.99,40-44.99,Less than 40,Absent
+Grade Point,10,9,8,7,6,5,4,0,--
+Letter Grade,O,A,B,C,D,E,P,F,F

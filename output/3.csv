@@ -1,0 +1,21 @@
+PROGRAMME:B.Tech in Computer Engineering,,,,,,,,,,,,,,
+Course Code,Course Name,"HighestMarks","CourseCredit/s","CA/TWMaxMarks","CA/TWMarksObtained","ESE/PR/ORLMaxMarks","ESE/PR/ORLMarksObtained","FinalMaxMarks","MarksObtained","FinalGrade","CreditsEarned(C)","GradePoints(G)",(C*G),SGPA
+DJ19CEC301,Engineering Mathematics -III,100,3,25,24,75,73,100,97,O,3,10,30,9.50
+DJ19CET301,Engineering Mathematics –III Tutorial,24,1,25,23,--,--,25,23,O,1,10,10,
+DJ19CEC302,Data Structures,97,3,25,22,75,68,100,90,O,3,10,30,
+DJ19CEL302,Data Structures Laboratory,47,1,25,22,25,22,50,44,A+,1,9,9,
+DJ19CEC303,Discrete Structures,97,3,25,23,75,66,100,89,A+,3,9,27,
+DJ19CET303,Discrete Structures Tutorial,23,1,25,23,--,--,25,23,O,1,10,10,
+DJ19CEC304,Database Management Systems,95,3,25,23,75,65,100,88,A+,3,9,27,
+DJ19CEL304,Database Management Systems Laboratory,48,1,25,21,25,23,50,44,A+,1,9,9,
+DJ19CEC305,Digital Electronics,92,3,25,25,75,64,100,89,A+,3,9,27,
+DJ19CEL305,Digital Electronics Laboratory,48,1,25,23,25,22,50,45,O,1,10,10,
+DJ19CEL306,Programming Laboratory- I (Java),97,2,50,44,50,49,100,93,O,2,10,20,
+DJ19A2,Innovative Product Development I,0,0,--,--,--,--,--,--,--,0,0,0,
+DJ19A3,Constitution of India,0,0,--,--,--,--,--,--,--,0,0,0,
+Total,,22,,,,,,,,22,,209,,
+Remark : SuccessfulCredits Earned :22SGPA :9.50,,,,,,,,,,,,,,
+"",,,,,,,,,,,,,,
+Marks Obtained,90.00 and above,80-89.99,70-79.99,60-69.99,55- 59.99,50-54.99,45-49.99,40-44.99,Less than 40,Absent
+Grade Point,10,9,8,7,6,5,4,3,0,--
+Letter Grade,O,A+,A,B+,B,C+,C,D,F,F

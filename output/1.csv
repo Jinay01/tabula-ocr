@@ -1,0 +1,18 @@
+PROGRAMME:Computer Engineering,,,,,,,,,,,,,,
+Course Code,Course Name,"HighestMarks","CourseCredit/s","CA/TWMaxMarks","CA/TWMarksObtained","ESE/PR/ORLMaxMarks","ESE/PR/ORLMarksObtained","FinalMaxMarks","MarksObtained","FinalGrade","CreditsEarned(C)","GradePoints(G)",(C*G),SGPA
+DJ19FEC101,Engineering Mathematics- I,99,4,25,25,75,75,100,100,O,4,10,40,9.18
+DJ19FET101,Engineering Mathematics- I Tutorial,24,1,25,24,--,--,25,24,O,1,10,10,
+DJ19FEC102,Engineering Physics- I,91,2,25,18,75,71,100,89,A+,2,9,18,
+DJ19FEL102,Engineering Physics- I Laboratory & Tutorial,24,1.5,25,23,--,--,25,23,O,1.5,10,15,
+DJ19FEC103,Engineering Chemistry- I,89,2,25,25,75,63,100,88,A+,2,9,18,
+DJ19FEL103,Engineering Chemistry- I Laboratory & Tutorial,24,1.5,25,22,--,--,25,22,A+,1.5,9,13.5,
+DJ19FEC104,Engineering Mechanics,98,3,25,21,75,52,100,73,A,3,8,24,
+DJ19FEL104,Engineering Mechanics Laboratory,25,1,25,22,--,--,25,22,A+,1,9,9,
+DJ19FEC105,Basic Electrical & Electronics Engineering,95,3,25,19,75,65,100,84,A+,3,9,27,
+DJ19FEL105,"Basic Electrical & Electronics EngineeringLaboratory",24,1,25,22,--,--,25,22,A+,1,9,9,
+Total,,20,,,,,,,,20,,183.5,,
+Remark : SuccessfulCredits Earned :20SGPA :9.18,,,,,,,,,,,,,,
+"",,,,,,,,,,,,,,
+% of Marks,>=90.00,80.0-89.99,70-79.99,60-69.99,55-59.99,50-54.99,45-49.99,40-44.99,<40
+Grade Point,10,9,8,7,6,5,4,3,0
+Grade,O,A+,A,B+,B,C+,C,D,F

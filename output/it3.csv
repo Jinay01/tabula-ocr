@@ -1,0 +1,21 @@
+PROGRAMME:B.Tech in Information Technology,,,,,,,,,,,,,,
+Course Code,Course Name,"HighestMarks","CourseCredit/s","CA/TWMaxMarks","CA/TWMarksObtained","ESE/PR/ORLMaxMarks","ESE/PR/ORLMarksObtained","FinalMaxMarks","MarksObtained","FinalGrade","CreditsEarned(C)","GradePoints(G)",(C*G),SGPA
+DJ19ITC301,Discrete Structures,94,3,25,21,75,70,100,91,O,3,10,30,9.59
+DJ19ITT301,Discrete Structures Tutorial,25,1,25,23,--,--,25,23,O,1,10,10,
+DJ19ITC302,Data Structures and Algorithms,91,3,25,23,75,53,100,76,A,3,8,24,
+DJ19ITL302,Data Structures and Algorithms Laboratory,48,1,25,22,25,24,50,46,O,1,10,10,
+DJ19ITC303,Database Management System,94,3,25,24,75,69,100,93,O,3,10,30,
+DJ19ITL303,Database Management System Laboratory,48,1,25,22,25,23,50,45,O,1,10,10,
+DJ19ITC304,Digital Logic Design,97,3,25,25,75,69,100,94,O,3,10,30,
+DJ19ITL304,Digital Logic Design Laboratory,47,1,25,23,25,23,50,46,O,1,10,10,
+DJ19ITC305,Operating System,93,3,25,19,75,65,100,84,A+,3,9,27,
+DJ19ITL305,Operating System Laboratory,48,1,25,24,25,22,50,46,O,1,10,10,
+DJ19ITL306,"Programming Laboratory 1(Java and AdvancedJava)",95,2,50,48,50,44,100,92,O,2,10,20,
+DJ19A2,Innovative Product Development I,0,0,--,--,--,--,--,--,--,0,0,0,
+DJ19A3,Constitution of India,0,0,--,--,--,--,--,--,--,0,0,0,
+Total,,22,,,,,,,,22,,211,,
+Remark : SuccessfulCredits Earned :22SGPA :9.59,,,,,,,,,,,,,,
+"",,,,,,,,,,,,,,
+Marks Obtained,90.00 and above,80-89.99,70-79.99,60-69.99,55- 59.99,50-54.99,45-49.99,40-44.99,Less than 40,Absent
+Grade Point,10,9,8,7,6,5,4,3,0,--
+Letter Grade,O,A+,A,B+,B,C+,C,D,F,F
